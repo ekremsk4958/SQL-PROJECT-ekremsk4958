@@ -1,0 +1,6 @@
+---SİPARİŞ TESLİM SÜRESİ 
+SELECT O.order_id,O.order_delivered_customer_date,O.order_purchase_timestamp,
+DATEDIFF(HOUR,O.order_purchase_timestamp,O.order_delivered_customer_date) AS SİPARİŞ_TESLİM_SÜRESİ_SAAT
+FROM ORDERS O 
+WHERE DATEDIFF(HOUR,O.order_purchase_timestamp,O.order_delivered_customer_date) IS NOT NULL
+ORDER BY DATEDIFF(HOUR,O.order_purchase_timestamp,O.order_delivered_customer_date) ASC
