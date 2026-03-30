@@ -1,5 +1,5 @@
 # SQL-PROJECT-ekremsk4958
-# SQL Veri Analizi Projesi: [Proje Adı Buraya - Örn: E-Ticaret Satış Analizi]
+# SQL Veri Analizi Projesi: [OLİST E-Ticaret Satış Analizi]
 
 ## 📊 Proje Hakkında
 Bu proje, ham verileri kullanarak işletme kararlarına yön verecek anlamlı içgörüler elde etmek amacıyla hazırlanmıştır. SQL sorguları aracılığıyla gerekli verileri kullanmaya,filtrelemeye ve bu sonuçlar itibari ile çıkarım ve sonuçlara varılmıştır.
@@ -21,5 +21,5 @@ Bu projede şu kritik iş sorularına yanıt aranmıştır:
 * [İkinci bir bulgu. Örn: En yüksek iade oranı X kategorisindedir.]
 
 ## 📁 Dosya Yapısı
-* `scripts/`: SQL sorgularının bulunduğu dosyalar.
-* `data/`: Analizde kullanılan veri setinin (veya linkinin) bulunduğu klasör.
+* `SQL QUERY/`: SQL sorgularının bulunduğu dosyalar.
+* `DATASETS`: Analizde kullanılan veri setinin (veya linkinin) bulunduğu klasör.
