@@ -1,0 +1,6 @@
+----AYLIK SATIŞ TRENDİ
+select sum(OI.price) AS TOPLAMTUTAR
+FORMAT(0.order_purchase_timestamp, 'yyyy-MM') AS siparişTARİHİ FROM ORDERS O
+INNER JOIN ORDER_ITEM OI ON OI.order_id=0.order_id
+GROUP BY FORMAT(0. order_purchase_timestamp, 'yyyy-MM')
+ORDER BY FORMAT(0.order_purchase_timestamp, 'yyyy-MM') ASC
