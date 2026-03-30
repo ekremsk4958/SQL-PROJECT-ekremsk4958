@@ -1,0 +1,20 @@
+DATASET BRAZİLYA'DA BULUNAN E-TİCARET SİTESİNE AİT 2016-2018 YILLARI ARASINDAKİ VERİLERİ İÇERİYOR 
+Veriler BRAZİLYA'DA Kİ OLİST E-TİCARET SİTESİNE AİTTİR.
+    📂 Olist Veri Seti Tablo Sözlüğü
+Aşağıdaki 8 ana tablo, projenin ilişkisel veri modelini oluşturmaktadır:
+    ○ dbo.CUSTOMERS: Müşteri bilgilerini içerir. Müşterilerin benzersiz kimlikleri (ID) ve bulundukları eyalet/şehir bilgilerini analiz etmek için kullanılır.
+
+    ○ dbo.GEOLOCATION: Brezilya'daki posta kodlarını ve coğrafi koordinatları (enlem/boylam) içerir. Harita bazlı görselleştirmeler için temeldir.
+
+    ○ dbo.ORDERS: Siparişlerin "kalbidir". Sipariş durumu (teslim edildi, iptal vb.) ve tüm operasyonel tarihleri (sipariş, onay, kargo, teslimat) barındırır.
+
+    ○ dbo.ORDER_ITEM: Sipariş edilen ürünlerin detaylarını tutar. Ürün fiyatı, kargo ücreti ve hangi satıcıdan alındığı bilgilerini birleştirir.
+
+    ○ dbo.ORDER_PAYMENT: Ödeme yöntemlerini (kredi kartı, taksit sayısı vb.) ve müşterinin ödediği toplam işlem hacmini gösterir.
+
+    ○ dbo.ORDER_REVIEWS: Müşterilerin teslimat sonrası verdiği 1-5 arası puanları ve yorumları içerir. Müşteri memnuniyet analizinin ana kaynağıdır.
+
+    ○ dbo.PRODUCT: Satılan ürünlerin kategorilerini (elektronik, mobilya vb.) ve fiziksel ölçülerini (ağırlık, boyut) içeren tablodur.
+
+    ○ dbo.SELLERS: Platformdaki satıcıların bilgilerini ve hangi şehirden gönderim yaptıklarını içerir. Satıcı performans analizi için kullanılır.
+
