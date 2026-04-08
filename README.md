@@ -32,8 +32,9 @@ Bu projede şu kritik iş sorularına yanıt aranmıştır:
   ## 📊 Dashboard Genel Bakış
 
 ### 1️⃣ Satış & Kategori Analizi
-![Dashboard 1]
+![Dashboard 1]![PROJECT1 PDF-images-0](https://github.com/user-attachments/assets/8ab6b1f0-da52-495d-8af4-faf7354dbae5)
 📌 Önemli Bulgular:
+
 - En yüksek ciro: Kişisel Bakım & Sağlık kategorisi
 - Kategoriler arası satış dağılımı dengeli, üst segment kategoriler önde
 - Aylık satış trendi genel olarak artış gösteriyor
@@ -41,7 +42,7 @@ Bu projede şu kritik iş sorularına yanıt aranmıştır:
 ---
 
 ### 2️⃣ Müşteri & Lokasyon Analizi
-![Dashboard 2]
+![Dashboard 2]![PROJECT1 PDF-images-1](https://github.com/user-attachments/assets/a8717f5d-2da5-4184-a2b4-c9e65936b87b)
 
 📌 Önemli Bulgular:
 - En fazla sipariş: São Paulo (SP)
@@ -51,7 +52,8 @@ Bu projede şu kritik iş sorularına yanıt aranmıştır:
 ---
 
 ### 3️⃣ Teslimat Performansı Analizi
-![Dashboard 3]
+![Dashboard 3]![PROJECT1 PDF-images-2](https://github.com/user-attachments/assets/865828d6-f268-443f-aead-e86c45196a7d)
+
 
 📌 Önemli Bulgular:
 - Ortalama teslim süresi yaklaşık 293 saat
