@@ -29,6 +29,34 @@ Bu projede şu kritik iş sorularına yanıt aranmıştır:
   **Bölgesel Dağılım**: Toplam siparişlerin %40'ından fazlası Sao Paulo (SP) eyaletinde yoğunlaşmıştır; bu da lojistik ağının merkezileşmesi gerektiğini göstermektedir.
 
   **Güneydoğu Dominasyonu**: Satışların büyük bir bölümü Brezilya'nın güneydoğu bölgesinde (SP, RJ, MG eyaletleri) gerçekleşirken, kuzey bölgelerindeki düşük satış hacmi bu pazarlarda büyüme potansiyeli veya lojistik engeller olduğuna işaret etmektedir.
+  ## 📊 Dashboard Genel Bakış
+
+### 1️⃣ Satış & Kategori Analizi
+![Dashboard 1]
+📌 Önemli Bulgular:
+- En yüksek ciro: Kişisel Bakım & Sağlık kategorisi
+- Kategoriler arası satış dağılımı dengeli, üst segment kategoriler önde
+- Aylık satış trendi genel olarak artış gösteriyor
+
+---
+
+### 2️⃣ Müşteri & Lokasyon Analizi
+![Dashboard 2]
+
+📌 Önemli Bulgular:
+- En fazla sipariş: São Paulo (SP)
+- İşlemlerin çoğu kredi kartı ile gerçekleşiyor
+- Müşteri yoğunluğu belirli eyaletlerde toplanmış
+
+---
+
+### 3️⃣ Teslimat Performansı Analizi
+![Dashboard 3]
+
+📌 Önemli Bulgular:
+- Ortalama teslim süresi yaklaşık 293 saat
+- Bazı eyaletlerde teslimat süreleri ciddi şekilde uzun
+- 2018 başında teslimat sürelerinde artış görülüyor; operasyonel iyileştirme gerekebilir
 ## 📁 Dosya Yapısı
 * `SQL QUERY/`: SQL sorgularının bulunduğu dosyalar.
 * `DATASETS/`: Analizde kullanılan veri setinin (veya linkinin) bulunduğu klasör.
