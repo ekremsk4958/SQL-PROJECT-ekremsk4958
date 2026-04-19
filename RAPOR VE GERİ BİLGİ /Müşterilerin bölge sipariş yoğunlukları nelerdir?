@@ -1,7 +1,7 @@
 Müşteri ve Bölge Bazlı Sipariş Yoğunluğu
 Bu analiz, platformun müşteri tabanının coğrafi dağılımını ve pazarın hangi bölgelerde kümelendiğini ortaya koymaktadır:
 
-Bölgesel Kümelenme (Concentration): Siparişlerin büyük bir çoğunluğunun Brezilya'nın Güneydoğu (Southeast) bölgesinde yoğunlaştığı tespit edilmiştir. Özellikle Sao Paulo (SP), Rio de Janeiro (RJ) ve Minas Gerais (MG) eyaletleri, toplam müşteri trafiğinin % [Power BI'da gördüğün oranı yaz, örn: %60]'ından fazlasını oluşturmaktadır.
+Bölgesel Kümelenme (Concentration): Siparişlerin büyük bir çoğunluğunun Brezilya'nın Güneydoğu (Southeast) bölgesinde yoğunlaştığı tespit edilmiştir. Özellikle Sao Paulo (SP), Rio de Janeiro (RJ) ve Minas Gerais (MG) eyaletleri, toplam müşteri trafiğinin %53,21'ından fazlasını oluşturmaktadır.
 
 Pazar Lideri Eyalet: Sao Paulo, hem müşteri sayısı hem de sipariş sıklığı bakımından platformun lokomotif bölgesi konumundadır. Bu durum, lojistik operasyonların neden bu bölgede merkezileştiğini açıklamaktadır.
 
